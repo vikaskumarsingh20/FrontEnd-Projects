@@ -13,7 +13,7 @@ This is a shopping website which I made using Redux technologies in React.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+  [[ git clone https://github.com/your-username/your-repo-name.git](https://github.com/vikaskumarsingh20/FrontEnd-Projects.git)]
 - 🛠️ Technologies Used
 - ⚛️ React: Frontend library for building user interfaces
 - 🗂️ Redux: For state management
